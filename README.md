@@ -1,2 +1,8 @@
 # parallax-webiste
-https://github.com/abideen305/parallax-webiste
+
+
+
+https://abideen305.github.io/parallax-webiste/
+
+
+
