@@ -56,14 +56,18 @@ color: #dddddd;
         min-height: 100%;
     }
 
-    .pimg2{
-        background-image: url(4.jpeg);
+    .pimg6{
+        background-image: url(6.jpeg);
         min-height: 400px;
+        background-repeat: no-repeat;
+        width: 500px;
+        height: 1000px;
     }
 
-    .pimg3{
-        background-image: url(3.jpeg);
+    .pimg7{
+        background-image: url(7.jpeg);
         min-height: 400px;
+        background-repeat: no-repeat;
     }
 
     .pimg4{
